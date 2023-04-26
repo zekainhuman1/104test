@@ -1,0 +1,16 @@
+[
+  {
+    "name": "arrived",
+    "path": "/arrived",
+    "component": "C:\\\\work\\\\104market\\\\pages\\\\arrived.vue",
+    "chunkName": "pages/arrived",
+    "_name": "_18df8f58"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\work\\\\104market\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_418f69f9"
+  }
+]

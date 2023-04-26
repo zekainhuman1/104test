@@ -1,0 +1,20 @@
+{
+  "ArrivedComp": {
+    "description": "Auto imported from components/arrived_comp.vue"
+  },
+  "Footerr": {
+    "description": "Auto imported from components/footerr.vue"
+  },
+  "HeaderBottom": {
+    "description": "Auto imported from components/header_bottom.vue"
+  },
+  "NewIncom": {
+    "description": "Auto imported from components/new_incom.vue"
+  },
+  "Slider": {
+    "description": "Auto imported from components/slider.vue"
+  },
+  "TabsCont": {
+    "description": "Auto imported from components/tabs_cont.vue"
+  }
+}

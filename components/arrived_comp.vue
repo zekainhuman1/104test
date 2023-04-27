@@ -1038,13 +1038,13 @@ element.style {
     width: 26px;
 }
 
-.oldprice[data-v-4dbc45fc] {
+.oldprice {
     color: #9ca3af;
     font-size: 15px;
     text-decoration-color: #f05252;
 }
 
-.currprice[data-v-4dbc45fc] {
+.currprice {
     color: #f38f00;
     font-size: 22px;
     font-weight: 600;

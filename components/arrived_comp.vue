@@ -1049,4 +1049,34 @@ element.style {
     font-size: 22px;
     font-weight: 600;
 }
+
+.show_more {
+    background-color: #f3f3f3;
+    border-radius: 5px;
+    color: #f38f00;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 8px;
+    text-align: center;
+    width: 100%;
+}
+
+.el-select {
+    display: inline-block;
+    position: relative;
+}
+
+.el-pagination__sizes {
+    color: #606266;
+    font-weight: 400;
+    margin: 0 10px 0 0;
+}
+
+.pagination-container {
+    background: #fff;
+    padding: 32px 16px;
+}
+
+
 </style>

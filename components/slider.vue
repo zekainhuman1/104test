@@ -294,7 +294,7 @@ export default {
   color: transparent;
   outline: none;
 }
-/*.slick-prev {
+.slick-prev {
   left: -25px;
 }
 

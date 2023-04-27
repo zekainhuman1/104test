@@ -294,12 +294,14 @@ export default {
   color: transparent;
   outline: none;
 }
-.slick-prev {
-  left: -25px;
-}
 
 .slick-prev {
   left: 10px;
+  z-index: 1;
+}
+
+.slick-next {
+  right: 10px;
   z-index: 1;
 }
 
@@ -317,6 +319,20 @@ export default {
   mask-repeat: no-repeat;
   padding: 13px;
   width: 10px;
+}
+
+.custom-arrow_next {
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    box-shadow: -13px 20px 10px rgba(0,0,0,.01),-7px 11px 8px rgba(0,0,0,.05),-3px 5px 6px rgba(0,0,0,.09),-1px 1px 3px rgba(0,0,0,.1),0 0 0 rgba(0,0,0,.1);
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAOCAYAAAASVl2WAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABqSURBVHgBpZBBCsAgDAQTQfCi+AS/4st9ij5DEExrsVAkNgf3ksMO2U3AOZettdkYE4CRmjNorRMHqVsREcsfBN77MKNoG7eDcIV674mIhllaaxG5TV9IgSAxQix5aA5JD3qveArVWssKXL1kQje0Tk4mAAAAAElFTkSuQmCC);
+    font-size: 30px;
+    height: 10px;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    padding: 13px;
+    width: 10px;
 }
 </style>
 

@@ -468,7 +468,7 @@
                 </div>
               </div>
               <img
-                src="http://api.marketplace.ent.ukrgas.com.ua/media/products/54444/%D1%811.jpg"
+                src="~/img/IMG_20230427_103046_245.jpg"
                 alt=""
                 class="card_img"
               />
@@ -521,7 +521,7 @@
                 </div>
               </div>
               <img
-                src="http://api.marketplace.ent.ukrgas.com.ua/media/products/54445/%D1%816.jpg"
+                src="~/img/IMG_20230424_102303_530.jpg"
                 alt=""
                 class="card_img"
               />

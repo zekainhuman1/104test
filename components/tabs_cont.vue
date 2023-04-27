@@ -7,42 +7,42 @@
     <div class="tab-1" v-show="activeTab === 'tab1'">
       <div class="item_brand">
         <img
-          src="~/img/6yxjw1uigyr81.png"
+          src="@/img/6yxjw1uigyr81.png"
           alt=""
         />
         <span class="title">Ноутбуки та комп’ютери</span>
       </div>
       <div class="item_brand">
         <img
-          src="~/img/IMG_20230416_103915_956.jpg"
+          src="@/img/IMG_20230416_103915_956.jpg"
           alt=""
         />
         <span class="title">Вбудовувана техніка</span>
       </div>
       <div class="item_brand">
         <img
-          src="~/img/!!!"
+          src="@/img/IMG_20230427_103046_245.jpg"
           alt=""
         />
         <span class="title">Стационарные</span>
       </div>
       <div class="item_brand">
         <img
-          src="~/img/IMG_20230416_220350_539.jpg"
+          src="@/img/IMG_20230416_220350_539.jpg"
           alt=""
         />
         <span class="title">Побутова техніка</span>
       </div>
       <div class="item_brand">
         <img
-          src="~/img/IMG_20230418_000437_494.jpg"
+          src="@/img/IMG_20230418_000437_494.jpg"
           alt=""
         />
         <span class="title">Техніка для кухні</span>
       </div>
       <div class="item_brand">
         <img
-          src="~/img/IMG_20230419_091619_784.jpg"
+          src="@/img/IMG_20230419_091619_784.jpg"
           alt=""
         />
         <span class="title">Монітори</span>
@@ -51,7 +51,7 @@
     <div class="tab-2" v-show="activeTab === 'tab2'">
       <div class="item_brand">
         <img
-          src="~/img/IMG_20230419_190807_178.jpg"
+          src="@/img/IMG_20230419_190807_178.jpg"
           alt=""
         />
         <span class="title">Foot Locker</span>

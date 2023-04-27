@@ -924,12 +924,6 @@ element.style {
   z-index: 1;
 }
 
-.currprice[data-v-4dbc45fc] {
-  color: #f38f00;
-  font-size: 22px;
-  font-weight: 600;
-}
-
 .el-pager li {
     background: #fff;
     box-sizing: border-box;
@@ -1034,4 +1028,25 @@ element.style {
     width: 100%;
 }
 
+.cart {
+    align-items: center;
+    background-color: #f38f00;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    padding: 7px;
+    width: 26px;
+}
+
+.oldprice[data-v-4dbc45fc] {
+    color: #9ca3af;
+    font-size: 15px;
+    text-decoration-color: #f05252;
+}
+
+.currprice[data-v-4dbc45fc] {
+    color: #f38f00;
+    font-size: 22px;
+    font-weight: 600;
+}
 </style>

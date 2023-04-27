@@ -1027,4 +1027,11 @@ element.style {
     width: 185px;
 }
 
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+}
+
 </style>

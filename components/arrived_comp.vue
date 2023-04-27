@@ -1014,5 +1014,17 @@ element.style {
     outline: none;
 }
 
+.product_card {
+    align-items: center;
+    border: 1px solid #ededed;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 10px;
+    position: relative;
+    width: 185px;
+}
 
 </style>

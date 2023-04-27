@@ -47,6 +47,9 @@ export default {
   z-index: 1;
 }
 
-slick-prev
+.slick-prev {
+  right: 10px;
+  z-index: 1;
+}
 
 </style>

@@ -42,14 +42,4 @@ export default {
   margin: 8px;
 }
 
-.slick-next {
-  right: 10px;
-  z-index: 1;
-}
-
-.slick-prev {
-  right: 10px;
-  z-index: 1;
-}
-
 </style>

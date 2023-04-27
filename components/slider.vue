@@ -99,20 +99,36 @@ export default {
 </script>
 
   <style>
-  .custom-arrow_prev {
-  background-color: #fff;
-  border: 1px solid #fff;
-  border-radius: 50%;
-  box-shadow: -13px 20px 10px rgba(0, 0, 0, 0.01),
-    -7px 11px 8px rgba(0, 0, 0, 0.05), -3px 5px 6px rgba(0, 0, 0, 0.09),
-    -1px 1px 3px rgba(0, 0, 0, 0.1), 0 0 0 rgba(0, 0, 0, 0.1);
-  content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAOCAYAAAASVl2WAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABmSURBVHgBrZHLCQAhDESdBcGLYglpxcotRfsQzMabiyFediCQ8IaQD5yinDPNOSszu8eAtGoYsI8xygemlFqMkSVaCIF+gEsmFB1bHAZRAdAlJ+991brc57BM10NB67SboE2+P+sFFoZMIq8PPtIAAAAASUVORK5CYII=);
-  font-size: 30px;
-  height: 10px;
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
-  padding: 13px;
-  width: 10px;
+.slick-dots {
+    bottom: 10px;
+}
+
+.slick-dots {
+    bottom: -25px;
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+.slick-dots li, .slick-dots li button {
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+}
+
+.slick-dots li button {
+    background: transparent;
+    border: 0;
+    color: transparent;
+    display: block;
+    font-size: 0;
+    line-height: 0;
+    outline: none;
+    padding: 5px;
 }
   
 .ban_slider {

@@ -32,13 +32,21 @@ export default {
 </script>
 
 <style>
-html {
+.html {
   /* font-family: "Manrope"; */
   font-size: 16px;
   font-weight: 400;
 }
-body {
+.body {
   display: block;
   margin: 8px;
 }
+
+.slick-next {
+  right: 10px;
+  z-index: 1;
+}
+
+slick-prev
+
 </style>

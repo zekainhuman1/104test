@@ -35,7 +35,7 @@ export default {
 </script>
 
 <style>
-html {
+.html {
   /* font-family: "Manrope"; */
   font-size: 16px;
   font-weight: 400;

@@ -16,7 +16,7 @@
     <div class="list">
       <div
         class="product_card"
-        img="http://api.marketplace.ent.ukrgas.com.ua/media/products/54444/%D1%811.jpg"
+        img="@/img/IMG_20230427_103046_245.jpg"
         rate="1.3"
         labels="[object Object]"
         price="502.77"
@@ -27,7 +27,7 @@
           <div class="label" style="background-color: rgb(0, 0, 0)">New!</div>
         </div>
         <img
-          src="http://api.marketplace.ent.ukrgas.com.ua/media/products/54444/%D1%811.jpg"
+          src="@/img/IMG_20230427_103046_245.jpg"
           alt=""
           class="card_img"
         />
@@ -68,7 +68,7 @@
       <div
         data-v-0109d49e=""
         class="product_card"
-        img="http://api.marketplace.ent.ukrgas.com.ua/media/products/54445/%D1%816.jpg"
+        img="@/img/IMG_20230424_102303_530.jpg"
         rate="2.4"
         labels="[object Object]"
         price="400.43"
@@ -80,7 +80,7 @@
           <div class="label" style="background-color: rgb(0, 0, 0)">New!</div>
         </div>
         <img
-          src="http://api.marketplace.ent.ukrgas.com.ua/media/products/54445/%D1%816.jpg"
+          src="@/img/IMG_20230424_102303_530.jpg"
           alt=""
           class="card_img"
         />
@@ -121,7 +121,7 @@
       <div
         data-v-0109d49e=""
         class="product_card"
-        img="http://api.marketplace.ent.ukrgas.com.ua/media/products/54447/f7.jpg"
+        img="@/img/IMG_20230423_175653_025.jpg"
         rate="3.4"
         labels="[object Object]"
         price="634.76"
@@ -133,7 +133,7 @@
           <div class="label" style="background-color: rgb(0, 0, 0)">New!</div>
         </div>
         <img
-          src="http://api.marketplace.ent.ukrgas.com.ua/media/products/54447/f7.jpg"
+          src="@/img/IMG_20230423_175653_025.jpg"
           alt=""
           class="card_img"
         />
@@ -173,7 +173,7 @@
       </div>
       <div
         class="product_card"
-        img="http://api.marketplace.ent.ukrgas.com.ua/media/products/54448/f2.jpg"
+        img="@/img/IMG_20230423_165709_848.jpg"
         rate="1.6"
         labels="[object Object]"
         price="403.1"
@@ -185,7 +185,7 @@
           <div class="label" style="background-color: rgb(0, 0, 0)">New!</div>
         </div>
         <img
-          src="http://api.marketplace.ent.ukrgas.com.ua/media/products/54448/f2.jpg"
+          src="@/img/IMG_20230423_165709_848.jpg"
           alt=""
           class="card_img"
         />
@@ -226,7 +226,7 @@
       <div
         data-v-0109d49e=""
         class="product_card"
-        img="http://api.marketplace.ent.ukrgas.com.ua/media/products/54455/f1.jpg"
+        img="@/img/IMG_20230423_165655_204.jpg"
         rate="3.7"
         labels="[object Object]"
         price="276.8"
@@ -238,7 +238,7 @@
           <div class="label" style="background-color: rgb(0, 0, 0)">New!</div>
         </div>
         <img
-          src="http://api.marketplace.ent.ukrgas.com.ua/media/products/54455/f1.jpg"
+          src="@/img/IMG_20230423_165655_204.jpg"
           alt=""
           class="card_img"
         />

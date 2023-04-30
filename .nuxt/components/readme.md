@@ -9,6 +9,7 @@ You can directly use them in pages and other components without the need to impo
 - `<ArrivedComp>` | `<arrived-comp>` (components/arrived_comp.vue)
 - `<Footerr>` | `<footerr>` (components/footerr.vue)
 - `<HeaderBottom>` | `<header-bottom>` (components/header_bottom.vue)
+- `<Leaflet>` | `<leaflet>` (components/leaflet.vue)
 - `<NewIncom>` | `<new-incom>` (components/new_incom.vue)
 - `<Slider>` | `<slider>` (components/slider.vue)
 - `<TabsCont>` | `<tabs-cont>` (components/tabs_cont.vue)

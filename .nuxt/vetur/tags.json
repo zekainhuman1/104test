@@ -8,6 +8,9 @@
   "HeaderBottom": {
     "description": "Auto imported from components/header_bottom.vue"
   },
+  "Leaflet": {
+    "description": "Auto imported from components/leaflet.vue"
+  },
   "NewIncom": {
     "description": "Auto imported from components/new_incom.vue"
   },

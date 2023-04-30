@@ -1,9 +1,10 @@
-export const ArrivedComp = () => import('../..\\components\\arrived_comp.vue' /* webpackChunkName: "components/arrived-comp" */).then(c => wrapFunctional(c.default || c))
-export const Footerr = () => import('../..\\components\\footerr.vue' /* webpackChunkName: "components/footerr" */).then(c => wrapFunctional(c.default || c))
-export const HeaderBottom = () => import('../..\\components\\header_bottom.vue' /* webpackChunkName: "components/header-bottom" */).then(c => wrapFunctional(c.default || c))
-export const NewIncom = () => import('../..\\components\\new_incom.vue' /* webpackChunkName: "components/new-incom" */).then(c => wrapFunctional(c.default || c))
-export const Slider = () => import('../..\\components\\slider.vue' /* webpackChunkName: "components/slider" */).then(c => wrapFunctional(c.default || c))
-export const TabsCont = () => import('../..\\components\\tabs_cont.vue' /* webpackChunkName: "components/tabs-cont" */).then(c => wrapFunctional(c.default || c))
+export { default as ArrivedComp } from '../..\\components\\arrived_comp.vue'
+export { default as Footerr } from '../..\\components\\footerr.vue'
+export { default as HeaderBottom } from '../..\\components\\header_bottom.vue'
+export { default as Leaflet } from '../..\\components\\leaflet.vue'
+export { default as NewIncom } from '../..\\components\\new_incom.vue'
+export { default as Slider } from '../..\\components\\slider.vue'
+export { default as TabsCont } from '../..\\components\\tabs_cont.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

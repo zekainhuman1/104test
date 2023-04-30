@@ -5,6 +5,7 @@
       <slider />
       <new_incom />
       <tabs_cont />
+      <!-- <leaflet /> -->
     </main>
     <footerr />
   </div>
@@ -16,6 +17,7 @@ import footerr from "~/components/footerr.vue";
 import slider from "@/components/slider.vue";
 import new_incom from "~/components/new_incom.vue";
 import tabs_cont from "~/components/tabs_cont.vue";
+// import leaflet from '~/components/leaflet.vue';
 
 
 export default {
@@ -26,6 +28,7 @@ export default {
     slider,
     new_incom,
     tabs_cont,
+    // leaflet,
 },
 
 };
@@ -37,8 +40,14 @@ html {
   font-size: 16px;
   font-weight: 400;
 }
+
 body {
   display: block;
   margin: 8px;
+}
+
+.vue2leaflet-map {
+    height: 300px;
+    width: 100%;
 }
 </style>

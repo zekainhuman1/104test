@@ -1,4 +1,5 @@
-<!-- Please remove this file from your project -->
+<!-- Please remo
+  components: { leaflet },ve this file from your project -->
 <template>
   <footer class="footer">
     <div class="section title"><img src="@/img/title.02db07b.png"></div>
@@ -19,8 +20,11 @@
             <li>Політика конфіденційності</li> 
             <li>Стати партнером</li>
         </ul>
-    </div> 
+    </div>
     <div class="section company">
+        <leaflet />
+    </div>
+    <!-- <div class="section company">
         <div class="company_title">Покупцям</div> 
         <ul>
             <li>Адреси магазинів “104.юа”</li> 
@@ -49,15 +53,25 @@
             <li>Пт-Пн  8:30 - 21:00</li> 
             <li>Сб-Нд  8:30 - 22:00</li>
         </ul>
-    </div>
+    </div> -->
 </footer>
 </template>
 
 <script>
+import leaflet from './leaflet.vue';
+
+export default {
+  name: "IndexPage",
+  components: {
+    leaflet,
+},
+
+};
 
 </script>
 
 <style>
+
 .footer {
     background-color: #f9fafb;
     display: flex;
@@ -65,7 +79,7 @@
 .section {
     font-size: 14px;
     padding: 25px;
-    width: 25%;
+    width: 33%;
 }
 .company_title {
     font-size: 18px;

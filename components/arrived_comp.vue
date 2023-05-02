@@ -36,7 +36,7 @@
             >
               <div class="opacity" style="display: none"></div>
               <span class="favor"></span>
-              <!---->
+              
               <div class="labels">
                 <div class="label" style="background-color: rgb(0, 0, 0)">
                   New!
@@ -89,7 +89,7 @@
             >
               <div class="opacity" style="display: none"></div>
               <span class="favor"></span>
-              <!---->
+              
               <div class="labels">
                 <div class="label" style="background-color: rgb(0, 0, 0)">
                   New!
@@ -143,7 +143,7 @@
             >
               <div class="opacity" style="display: none"></div>
               <span class="favor"></span>
-              <!---->
+              
               <div class="labels">
                 <div class="label" style="background-color: rgb(0, 0, 0)">
                   New!
@@ -196,7 +196,7 @@
             >
               <div class="opacity" style="display: none"></div>
               <span class="favor"></span>
-              <!---->
+              
               <div class="labels">
                 <div class="label" style="background-color: rgb(0, 0, 0)">
                   New!
@@ -249,7 +249,7 @@
             >
               <div class="opacity" style="display: none"></div>
               <span class="favor"></span>
-              <!---->
+              
               <div class="labels">
                 <div class="label" style="background-color: rgb(0, 0, 0)">
                   New!
@@ -302,7 +302,7 @@
             >
               <div class="opacity" style="display: none"></div>
               <span class="favor"></span>
-              <!---->
+              
               <div class="labels">
                 <div class="label" style="background-color: rgb(0, 0, 0)">
                   New!
@@ -355,7 +355,7 @@
             >
               <div class="opacity" style="display: none"></div>
               <span class="favor"></span>
-              <!---->
+              
               <div class="labels">
                 <div class="label" style="background-color: rgb(0, 0, 0)">
                   New!
@@ -408,7 +408,7 @@
             >
               <div class="opacity" style="display: none"></div>
               <span class="favor"></span>
-              <!---->
+              
               <div class="labels">
                 <div class="label" style="background-color: rgb(0, 0, 0)">
                   New!
@@ -461,14 +461,14 @@
             >
               <div class="opacity" style="display: none"></div>
               <span class="favor"></span>
-              <!---->
+              
               <div class="labels">
                 <div class="label" style="background-color: rgb(0, 0, 0)">
                   New!
                 </div>
               </div>
               <img
-                src="@/img/IMG_20230427_103046_245.jpg"
+                src="http://api.marketplace.ent.ukrgas.com.ua/media/products/54444/%D1%811.jpg"
                 alt=""
                 class="card_img"
               />
@@ -514,14 +514,14 @@
             >
               <div class="opacity"></div>
               <span class="favor"></span>
-              <!---->
+              
               <div class="labels">
                 <div class="label" style="background-color: rgb(0, 0, 0)">
                   New!
                 </div>
               </div>
               <img
-                src="@/img/IMG_20230424_102303_530.jpg"
+                src="http://api.marketplace.ent.ukrgas.com.ua/media/products/54445/%D1%816.jpg"
                 alt=""
                 class="card_img"
               />
@@ -924,6 +924,12 @@ element.style {
   z-index: 1;
 }
 
+.currprice[data-v-4dbc45fc] {
+  color: #f38f00;
+  font-size: 22px;
+  font-weight: 600;
+}
+
 .el-pager li {
     background: #fff;
     box-sizing: border-box;
@@ -1006,76 +1012,6 @@ element.style {
     background: transparent;
     color: transparent;
     outline: none;
-}
-
-.product_card {
-    align-items: center;
-    border: 1px solid #ededed;
-    cursor: pointer;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    margin-bottom: 20px;
-    padding: 10px;
-    position: relative;
-    width: 185px;
-}
-
-.list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    width: 100%;
-}
-
-.cart {
-    align-items: center;
-    background-color: #f38f00;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    padding: 7px;
-    width: 26px;
-}
-
-.oldprice {
-    color: #9ca3af;
-    font-size: 15px;
-    text-decoration-color: #f05252;
-}
-
-.currprice {
-    color: #f38f00;
-    font-size: 22px;
-    font-weight: 600;
-}
-
-.show_more {
-    background-color: #f3f3f3;
-    border-radius: 5px;
-    color: #f38f00;
-    cursor: pointer;
-    font-size: 14px;
-    font-weight: 700;
-    padding: 8px;
-    text-align: center;
-    width: 100%;
-}
-
-.el-select {
-    display: inline-block;
-    position: relative;
-}
-
-.el-pagination__sizes {
-    color: #606266;
-    font-weight: 400;
-    margin: 0 10px 0 0;
-}
-
-.pagination-container {
-    background: #fff;
-    padding: 32px 16px;
 }
 
 

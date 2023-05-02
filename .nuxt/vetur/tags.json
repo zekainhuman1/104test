@@ -14,6 +14,9 @@
   "NewIncom": {
     "description": "Auto imported from components/new_incom.vue"
   },
+  "Productcard": {
+    "description": "Auto imported from components/productcard.vue"
+  },
   "Slider": {
     "description": "Auto imported from components/slider.vue"
   },

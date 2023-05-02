@@ -3,6 +3,7 @@ export { default as Footerr } from '../..\\components\\footerr.vue'
 export { default as HeaderBottom } from '../..\\components\\header_bottom.vue'
 export { default as Leaflet } from '../..\\components\\leaflet.vue'
 export { default as NewIncom } from '../..\\components\\new_incom.vue'
+export { default as Productcard } from '../..\\components\\productcard.vue'
 export { default as Slider } from '../..\\components\\slider.vue'
 export { default as TabsCont } from '../..\\components\\tabs_cont.vue'
 

@@ -11,5 +11,6 @@ You can directly use them in pages and other components without the need to impo
 - `<HeaderBottom>` | `<header-bottom>` (components/header_bottom.vue)
 - `<Leaflet>` | `<leaflet>` (components/leaflet.vue)
 - `<NewIncom>` | `<new-incom>` (components/new_incom.vue)
+- `<Productcard>` | `<productcard>` (components/productcard.vue)
 - `<Slider>` | `<slider>` (components/slider.vue)
 - `<TabsCont>` | `<tabs-cont>` (components/tabs_cont.vue)

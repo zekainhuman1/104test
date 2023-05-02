@@ -117,10 +117,10 @@
             <div class="control_icon">
               <img src="@/img/cart2.3ba4f67.svg" alt="" />
             </div>
-            <div class="count" data-v-278ddcd1="">0</div>
+            <div class="count">0</div>
           </div>
         </a>
-        <div class="auth" data-v-278ddcd1="">Увійти</div>
+        <div class="auth">Увійти</div>
       </div>
     </div>
     <hr class="line" />
@@ -132,7 +132,7 @@ export default {
   data() {
     return {
       isOpenMenu: false,
-      activeGroup: 0,
+      activeGroup: 1,
       groups: [
         [
           {

@@ -14,273 +14,36 @@
       </div>
     </h3>
     <div class="list">
-      <div
-        class="product_card"
-        img="@/img/IMG_20230427_103046_245.jpg"
-        rate="1.3"
-        labels="[object Object]"
-        price="502.77"
-      >
-        <div class="opacity" style="display: none"></div>
-        <span class="favor"></span>
-        <div class="labels">
-          <div class="label" style="background-color: rgb(0, 0, 0)">New!</div>
-        </div>
-        <img
-          src="@/img/IMG_20230427_103046_245.jpg"
-          alt=""
-          class="card_img"
-        />
-        <div class="product_title">
-          Murcia Women Hahk Black Handbags
-          <div class="sale">-20%</div>
-        </div>
-        <div class="rate">
-          <div class="ratings">
-            <div class="empty-stars"></div>
-            <div class="full-stars" style="width: 26%"></div>
-          </div>
-          <div class="rating_num">1.3</div>
-        </div>
-        <div class="price">
-          <div class="pricevalues">
-            <div class="currprice">503 ₴</div>
-            <del class="oldprice"> 604 ₴</del>
-          </div>
-          <div class="cart">
-            <img
-              src="data:image/svg+xml;base64,PHN2ZwogIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICB3aWR0aD0iMjQiCiAgaGVpZ2h0PSIyNCIKICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgZmlsbD0ibm9uZSIKICBjb2xvcj0id2hpdGUiCiAgc3Ryb2tlPSJjdXJyZW50Q29sb3IiCiAgc3Ryb2tlLXdpZHRoPSIyIgogIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIKICBzdHJva2UtbGluZWpvaW49InJvdW5kIgo+CiAgPGNpcmNsZSBjeD0iOSIgY3k9IjIxIiByPSIxIiAvPgogIDxjaXJjbGUgY3g9IjIwIiBjeT0iMjEiIHI9IjEiIC8+CiAgPHBhdGggZD0iTTEgMWg0bDIuNjggMTMuMzlhMiAyIDAgMCAwIDIgMS42MWg5LjcyYTIgMiAwIDAgMCAyLTEuNjFMMjMgNkg2IiAvPgo8L3N2Zz4K"
-              alt=""
-              class="cart_icon"
-            />
-          </div>
-          <div class="added" style="display: none">
-            <img
-              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NjggMUw1LjUwMDE2IDEwLjE2NjdMMS4zMzM1IDYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="
-              alt=""
-              class="cart_icon"
-            />
-          </div>
-        </div>
-        <div class="none" style="display: none">Немає в наявності</div>
-        <div class="qty" style="display: none">1</div>
-      </div>
-      <div
-        data-v-0109d49e=""
-        class="product_card"
-        img="@/img/IMG_20230424_102303_530.jpg"
-        rate="2.4"
-        labels="[object Object]"
-        price="400.43"
-      >
-        <div class="opacity"></div>
-        <span class="favor"></span>
-        <!---->
-        <div class="labels">
-          <div class="label" style="background-color: rgb(0, 0, 0)">New!</div>
-        </div>
-        <img
-          src="@/img/IMG_20230424_102303_530.jpg"
-          alt=""
-          class="card_img"
-        />
-        <div class="product_title">
-          Gini and Jony Boys Core Green T-shirt
-          <div class="sale">-20%</div>
-        </div>
-        <div class="rate">
-          <div class="ratings">
-            <div class="empty-stars"></div>
-            <div class="full-stars" style="width: 48%"></div>
-          </div>
-          <div class="rating_num">2.4</div>
-        </div>
-        <div class="price" style="display: none">
-          <div class="pricevalues">
-            <div class="currprice">401 ₴</div>
-            <del class="oldprice"> 481 ₴</del>
-          </div>
-          <div class="cart">
-            <img
-              src="data:image/svg+xml;base64,PHN2ZwogIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICB3aWR0aD0iMjQiCiAgaGVpZ2h0PSIyNCIKICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgZmlsbD0ibm9uZSIKICBjb2xvcj0id2hpdGUiCiAgc3Ryb2tlPSJjdXJyZW50Q29sb3IiCiAgc3Ryb2tlLXdpZHRoPSIyIgogIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIKICBzdHJva2UtbGluZWpvaW49InJvdW5kIgo+CiAgPGNpcmNsZSBjeD0iOSIgY3k9IjIxIiByPSIxIiAvPgogIDxjaXJjbGUgY3g9IjIwIiBjeT0iMjEiIHI9IjEiIC8+CiAgPHBhdGggZD0iTTEgMWg0bDIuNjggMTMuMzlhMiAyIDAgMCAwIDIgMS42MWg5LjcyYTIgMiAwIDAgMCAyLTEuNjFMMjMgNkg2IiAvPgo8L3N2Zz4K"
-              alt=""
-              class="cart_icon"
-            />
-          </div>
-          <div class="added" style="display: none">
-            <img
-              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NjggMUw1LjUwMDE2IDEwLjE2NjdMMS4zMzM1IDYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="
-              alt=""
-              class="cart_icon"
-            />
-          </div>
-        </div>
-        <div class="none">Немає в наявності</div>
-        <div class="qty" style="display: none">1</div>
-      </div>
-      <div
-        data-v-0109d49e=""
-        class="product_card"
-        img="@/img/IMG_20230423_175653_025.jpg"
-        rate="3.4"
-        labels="[object Object]"
-        price="634.76"
-      >
-        <div class="opacity" style="display: none"></div>
-        <span class="favor"></span>
-        <!---->
-        <div class="labels">
-          <div class="label" style="background-color: rgb(0, 0, 0)">New!</div>
-        </div>
-        <img
-          src="@/img/IMG_20230423_175653_025.jpg"
-          alt=""
-          class="card_img"
-        />
-        <div class="product_title">
-          Kipsta Men Loose Fit Round Neck Jersey Red
-          <div class="sale">-20%</div>
-        </div>
-        <div class="rate">
-          <div class="ratings">
-            <div class="empty-stars"></div>
-            <div class="full-stars" style="width: 68%"></div>
-          </div>
-          <div class="rating_num">3.4</div>
-        </div>
-        <div class="price">
-          <div class="pricevalues">
-            <div class="currprice">635 ₴</div>
-            <del class="oldprice"> 762 ₴</del>
-          </div>
-          <div class="cart">
-            <img
-              src="data:image/svg+xml;base64,PHN2ZwogIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICB3aWR0aD0iMjQiCiAgaGVpZ2h0PSIyNCIKICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgZmlsbD0ibm9uZSIKICBjb2xvcj0id2hpdGUiCiAgc3Ryb2tlPSJjdXJyZW50Q29sb3IiCiAgc3Ryb2tlLXdpZHRoPSIyIgogIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIKICBzdHJva2UtbGluZWpvaW49InJvdW5kIgo+CiAgPGNpcmNsZSBjeD0iOSIgY3k9IjIxIiByPSIxIiAvPgogIDxjaXJjbGUgY3g9IjIwIiBjeT0iMjEiIHI9IjEiIC8+CiAgPHBhdGggZD0iTTEgMWg0bDIuNjggMTMuMzlhMiAyIDAgMCAwIDIgMS42MWg5LjcyYTIgMiAwIDAgMCAyLTEuNjFMMjMgNkg2IiAvPgo8L3N2Zz4K"
-              alt=""
-              class="cart_icon"
-            />
-          </div>
-          <div class="added" style="display: none">
-            <img
-              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NjggMUw1LjUwMDE2IDEwLjE2NjdMMS4zMzM1IDYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="
-              alt=""
-              class="cart_icon"
-            />
-          </div>
-        </div>
-        <div class="none" style="display: none">Немає в наявності</div>
-        <div class="qty" style="display: none">1</div>
-      </div>
-      <div
-        class="product_card"
-        img="@/img/IMG_20230423_165709_848.jpg"
-        rate="1.6"
-        labels="[object Object]"
-        price="403.1"
-      >
-        <div class="opacity" style="display: none"></div>
-        <span class="favor"></span>
-        <!---->
-        <div class="labels">
-          <div class="label" style="background-color: rgb(0, 0, 0)">New!</div>
-        </div>
-        <img
-          src="@/img/IMG_20230423_165709_848.jpg"
-          alt=""
-          class="card_img"
-        />
-        <div class="product_title">
-          Titan Women White Dial Watch NB9701WM01
-          <div class="sale">-20%</div>
-        </div>
-        <div class="rate">
-          <div class="ratings">
-            <div class="empty-stars"></div>
-            <div class="full-stars" style="width: 32%"></div>
-          </div>
-          <div class="rating_num">1.6</div>
-        </div>
-        <div class="price">
-          <div class="pricevalues">
-            <div class="currprice">404 ₴</div>
-            <del class="oldprice"> 484 ₴</del>
-          </div>
-          <div class="cart">
-            <img
-              src="data:image/svg+xml;base64,PHN2ZwogIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICB3aWR0aD0iMjQiCiAgaGVpZ2h0PSIyNCIKICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgZmlsbD0ibm9uZSIKICBjb2xvcj0id2hpdGUiCiAgc3Ryb2tlPSJjdXJyZW50Q29sb3IiCiAgc3Ryb2tlLXdpZHRoPSIyIgogIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIKICBzdHJva2UtbGluZWpvaW49InJvdW5kIgo+CiAgPGNpcmNsZSBjeD0iOSIgY3k9IjIxIiByPSIxIiAvPgogIDxjaXJjbGUgY3g9IjIwIiBjeT0iMjEiIHI9IjEiIC8+CiAgPHBhdGggZD0iTTEgMWg0bDIuNjggMTMuMzlhMiAyIDAgMCAwIDIgMS42MWg5LjcyYTIgMiAwIDAgMCAyLTEuNjFMMjMgNkg2IiAvPgo8L3N2Zz4K"
-              alt=""
-              class="cart_icon"
-            />
-          </div>
-          <div class="added" style="display: none">
-            <img
-              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NjggMUw1LjUwMDE2IDEwLjE2NjdMMS4zMzM1IDYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="
-              alt=""
-              class="cart_icon"
-            />
-          </div>
-        </div>
-        <div class="none" style="display: none">Немає в наявності</div>
-        <div class="qty" style="display: none">1</div>
-      </div>
-      <div
-        data-v-0109d49e=""
-        class="product_card"
-        img="@/img/IMG_20230423_165655_204.jpg"
-        rate="3.7"
-        labels="[object Object]"
-        price="276.8"
-      >
-        <div class="opacity" style="display: none"></div>
-        <span class="favor"></span>
-        <!---->
-        <div class="labels">
-          <div class="label" style="background-color: rgb(0, 0, 0)">New!</div>
-        </div>
-        <img
-          src="@/img/IMG_20230423_165655_204.jpg"
-          alt=""
-          class="card_img"
-        />
-        <div class="product_title">
-          Lotto Men's Soccer Track Flip Flop
-          <div class="sale">-20%</div>
-        </div>
-        <div class="rate">
-          <div class="ratings">
-            <div class="empty-stars"></div>
-            <div class="full-stars" style="width: 74%"></div>
-          </div>
-          <div class="rating_num">3.7</div>
-        </div>
-        <div class="price">
-          <div class="pricevalues">
-            <div class="currprice">277 ₴</div>
-            <del class="oldprice"> 333 ₴</del>
-          </div>
-          <div class="cart">
-            <img
-              src="data:image/svg+xml;base64,PHN2ZwogIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICB3aWR0aD0iMjQiCiAgaGVpZ2h0PSIyNCIKICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgZmlsbD0ibm9uZSIKICBjb2xvcj0id2hpdGUiCiAgc3Ryb2tlPSJjdXJyZW50Q29sb3IiCiAgc3Ryb2tlLXdpZHRoPSIyIgogIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIKICBzdHJva2UtbGluZWpvaW49InJvdW5kIgo+CiAgPGNpcmNsZSBjeD0iOSIgY3k9IjIxIiByPSIxIiAvPgogIDxjaXJjbGUgY3g9IjIwIiBjeT0iMjEiIHI9IjEiIC8+CiAgPHBhdGggZD0iTTEgMWg0bDIuNjggMTMuMzlhMiAyIDAgMCAwIDIgMS42MWg5LjcyYTIgMiAwIDAgMCAyLTEuNjFMMjMgNkg2IiAvPgo8L3N2Zz4K"
-              alt=""
-              class="cart_icon"
-            />
-          </div>
-          <div class="added" style="display: none">
-            <img
-              src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxNiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjY2NjggMUw1LjUwMDE2IDEwLjE2NjdMMS4zMzM1IDYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo="
-              alt=""
-              class="cart_icon"
-            />
-          </div>
-        </div>
-        <div class="none" style="display: none">Немає в наявності</div>
-        <div class="qty" style="display: none">1</div>
-      </div>
+      <productcard v-for="item in shows" :key="item.id" :item="item" />
     </div>
   </div>
 </template>
 
-<script>
+<script lang="js">
+import productcard from "@/components/productcard.vue"
+
+export default {
+  name: "IndexPage",
+  components: {
+    productcard,
+  },
+
+  data: function() {
+    return {
+      shows: []
+    }
+  },
+  
+  methods: {},
+
+  mounted() {
+    this.$axios.get('https://sonarr.zekainhuman.com/api/v3/series?includeSeasonImages=true&apikey=9281622a2d884926966ea67c432b3b77')
+    .then(r=>{
+      this.shows = r.data
+    })
+  }
+
+};
 </script>
 
 <style>

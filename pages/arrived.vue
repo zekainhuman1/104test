@@ -420,7 +420,8 @@ video {
 }
 
 .card_img {
-  position: relative;
+    position: relative;
+    max-width: 200px;
 }
 
 .label {
